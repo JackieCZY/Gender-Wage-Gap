@@ -1,10 +1,10 @@
 # Gender-Wage-Gap
 ## Background
-This project is meant to find the factors that contribute to the gender wage gap in workplaces in the U.S
+- This project is meant to find the factors that contribute to the gender wage gap in workplaces in the U.S
 
-This is the first project I did after I decided to select statistics as my second major
+- This is the first project I did after I decided to select statistics as my second major
 
-Before doing this project, I was interested in learning women's rights and gender discrepencies.
+- Before doing this project, I was interested in learning women's rights and gender discrepencies.
 
 ## Summary
 
